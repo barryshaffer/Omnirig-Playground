@@ -1,8 +1,8 @@
-# POTA2RIG
-Project intent is to take the spotting data from pota.app and feed rigcontrol and logging software
+# Omnirig Playground
+This is a personal learning area for me to cull my notes on coding for the omnirig. 
 
-Intial project thoughts:
-take JSON from http://api.pota.app/spots convert to table 
+For some reason, I couldn't find a single source for omnirig operation so I'll I had to pull examples from other repositories to discover these methods
 
-Found another project that have very similar functionality called Augratin. Will look into that, possibly fork it over here and play. 
+The first application I coded was for python so most of the information here will go focused on that language.
+
 
