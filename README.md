@@ -1,6 +1,8 @@
 # Omnirig Playground
 This is a personal learning area for me to cull my notes on coding for the omnirig. 
 
+My implementation in Augratin used SetSimplex to set frequencies: on the FT101 it alway switches to MAIN and sets it's VFO. Imagine it wipes any clarifier setting (not verified.)
+
 For some reason, I couldn't find a single source for omnirig operation so I'll I had to pull examples from other repositories to discover these methods
 
 The first application I coded was for python so most of the information here will go focused on that language.
